@@ -89,10 +89,29 @@ print("For population = 70,000, we predict a profit of $"+str(round(predict2,0))
 ```
 
 ## Output:
-
+# Read CSV File;
 ![image](https://github.com/sudharsanakumar18/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/138849110/2915117a-adce-45db-8fd8-bd82b0a21080)
 
+# Dataset shape:
+![image](https://github.com/sudharsanakumar18/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/138849110/440c9881-e29b-411b-a5cb-b4b6d0421ce7)
 
+# Profit Vs Prediction graph:
+![image](https://github.com/sudharsanakumar18/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/138849110/0dd829bf-d703-448a-88e0-41e32d13784a)
+
+# x,y,theta value:
+![image](https://github.com/sudharsanakumar18/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/138849110/f9257cfa-1a60-4096-a170-116cef97f939)
+
+# Gradient descent:
+![image](https://github.com/sudharsanakumar18/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/138849110/4a28ae67-23a6-40b4-8a9b-711af1ba07ba)
+
+# Cost function using Gradient Descent Graph:
+![image](https://github.com/sudharsanakumar18/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/138849110/97530360-9459-4556-bda4-eadcff197b42)
+
+# Profit Prediction Graph:
+![image](https://github.com/sudharsanakumar18/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/138849110/2451e1d8-1360-4662-a0df-67f77705e7c4)
+
+# Profit Prediction:
+![image](https://github.com/sudharsanakumar18/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/138849110/7d15da08-f800-417a-9cb5-fb4648b9288e)
 
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
