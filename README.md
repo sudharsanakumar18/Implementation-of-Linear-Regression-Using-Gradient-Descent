@@ -89,7 +89,7 @@ print("For population = 70,000, we predict a profit of $"+str(round(predict2,0))
 ```
 
 ## Output:
-# Read CSV File;
+# Read CSV File:
 ![image](https://github.com/sudharsanakumar18/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/138849110/2915117a-adce-45db-8fd8-bd82b0a21080)
 
 # Dataset shape:
